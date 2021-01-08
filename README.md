@@ -14,4 +14,4 @@ docker login
 docker push isaacaflores/hello
 ```
 
-![dockerlogo](docker.jpg)
+![dockerlogo](docker.png)
