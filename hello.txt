@@ -1,0 +1,20 @@
+
+                    ##        .            
+              ## ## ##       ==            
+           ## ## ## ##      ===            
+       /""""""""""""""""\___/ ===        
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
+       \______ o          __/            
+         \    \        __/             
+          \____\______/                
+ 
+          |          |
+       __ |  __   __ | _  __   _
+      /  \| /  \ /   |/  / _\ | 
+      \__/| \__/ \__ |\_ \__  |
+
+Hello from Docker! 
+
+My name is Isaac Flores. This is simple image I created to say hi using a shell command. 
+
+For more hello docker examples checkout my repository: https://github.com/isaacaflores2/HelloDockers.git
