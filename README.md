@@ -1,6 +1,6 @@
 # HelloDockers
 Collection of docker images in various languages that say Hello
-###### Current languages: Go
+###### Current languages: Go, C#
 ---
 
 ### To create the shell image run the below commands:
